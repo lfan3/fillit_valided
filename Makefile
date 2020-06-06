@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: fhenrion <fhenrion@student.42.fr>          +#+  +:+       +#+         #
+#    					          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/06/12 12:34:06 by linfan            #+#    #+#              #
 #    Updated: 2019/06/17 16:17:57 by fhenrion         ###   ########.fr        #
